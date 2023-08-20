@@ -1,2 +1,2 @@
-First Pythn File# HelloWorld.py
+First Python File# HelloWorld.py
 first python file
